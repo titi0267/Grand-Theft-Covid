@@ -122,7 +122,7 @@ SRCSFILES=	rpg.c							\
 
 SRCS = $(addprefix $(SRCSPATH), $(SRCSFILES))
 
-NAME	=	my_rpg
+NAME	=	grand_theft_covid
 
 CFLAGS = -lm	-lcsfml-audio	-lcsfml-graphics	-lcsfml-window	-lcsfml-system	-g	-Wall -Wextra -Werror
 
